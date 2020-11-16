@@ -4,5 +4,6 @@ go 1.13
 
 require (
 	github.com/gin-gonic/gin v1.6.3
+	github.com/nats-io/nats-streaming-server v0.19.0 // indirect
 	github.com/nats-io/stan.go v0.7.0
 )
